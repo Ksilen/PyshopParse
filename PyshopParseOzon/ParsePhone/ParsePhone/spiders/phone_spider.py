@@ -1,14 +1,9 @@
-import requests
 import scrapy
-from selenium import webdriver
-from scrapy.selector import Selector
 import time
 import webbrowser
-from selenium.webdriver.chrome.options import Options
 import pyautogui
 import pyperclip
 import pandas as pd
-import undetected_chromedriver as uc
 from lxml import html
 
 class WebsiteSpider(scrapy.Spider):
