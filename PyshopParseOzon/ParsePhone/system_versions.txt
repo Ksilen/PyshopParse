@@ -1,0 +1,5 @@
+iOS 17 - 58
+iOS 15 - 21
+Android 13.x - 14
+Android 13 - 6
+Android 12.x - 1
